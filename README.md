@@ -7,6 +7,18 @@ Detail-oriented PHP Programmer with 3 years’ coding experience for mid-size bu
 Skill : HTML, CSS, PHP, MySQL(LAMP), Vue, React, Bootstrap, jQuery, SEO, Google Analytics, WordPress, OpenCart, Google Analytics Individual Qualification, Mobile Sites Certification (Google)
 
 
+
+
+![Vue](https://img.shields.io/badge/-Vue-000000?style=flat&logo=Vue.js)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+
+
 <!--
 **chenganma/chenganma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
