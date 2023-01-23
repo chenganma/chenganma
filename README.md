@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Detail-oriented PHP Programmer with 3 years’ coding experience for mid-size business. Team player with can-do attitude, fast learner, and problem-solving skill. Has developed several useful features for project need and mobile device available websites. Seeking to leverage my technical and professional expertise to grow in the new role
+Detail-oriented PHP Programmer with 5 years’ coding experience for mid-size business. Team player with can-do attitude, fast learner, and problem-solving skill. Has developed several useful features for project need and mobile device available websites. Seeking to leverage my technical and professional expertise to grow in the new role
 
 <hr></hr>
 
