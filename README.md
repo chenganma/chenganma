@@ -4,7 +4,7 @@ Detail-oriented PHP Programmer with 5 years’ coding experience for mid-size bu
 
 <hr></hr>
 
-Skill : HTML, CSS, PHP, MySQL (LAMP), Vue.js, React, JavaScript, jQuery, Bootstrap, jQuery, Heroku, Facebook Chatbot, SEO, WordPress, OpenCart, Photoshop, Illustrator, GitHub, Mac OS, Windows
+Skill : HTML, CSS, PHP, MySQL (LAMP), Vue.js, React, JavaScript, jQuery, Bootstrap, Heroku, Facebook Chatbot, SEO, WordPress, OpenCart, Photoshop, Illustrator, GitHub, Mac OS, Windows
 
 Certification : AWS Certified Cloud Practitioner (2022), Project Management (2021), Google Analytics (2017), Mobile Sites Certification (2017), Microsoft Certified Technology Specialist (2010), MSSQL (2010)
 
@@ -20,7 +20,7 @@ Certification : AWS Certified Cloud Practitioner (2022), Project Management (202
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 <br><br>
-![Update](https://img.shields.io/badge/Update%20On-12%2F2022-yellowgreen)
+![Update](https://img.shields.io/badge/Update%20On-01%2F2023-yellowgreen)
 
 
 <!--
