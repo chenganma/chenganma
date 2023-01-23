@@ -4,7 +4,9 @@ Detail-oriented PHP Programmer with 5 years’ coding experience for mid-size bu
 
 <hr></hr>
 
-Skill : HTML, CSS, PHP, MySQL(LAMP), Vue, React, Bootstrap, jQuery, SEO, Google Analytics, WordPress, OpenCart, Google Analytics Individual Qualification, Mobile Sites Certification (Google), Project Management Certification, AWS Certified Cloud Practitioner
+Skill : HTML, CSS, PHP, MySQL(LAMP), Vue, React, JavaScript, jQuery, Bootstrap, jQuery, Heroku, Facebook Chatbot, SEO, Google Analytics, WordPress, OpenCart, Photoshop, Illustrator, GitHub, Mac OS, Windows
+
+Certification : AWS Certified Cloud Practitioner (2022), Project Management (2021), Google Analytics (2017), Mobile Sites Certification (2017), Microsoft Certified Technology Specialist (2010), MSSQL (2010)
 
 
 
