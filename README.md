@@ -20,7 +20,7 @@ Certification : AWS Certified Cloud Practitioner (2022), Project Management (202
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 <br><br>
-![Update](https://img.shields.io/badge/Update%20On-01%2F2023-yellowgreen)
+![Update](https://img.shields.io/badge/Update%20On-01%2F2024-yellowgreen)
 
 
 <!--
