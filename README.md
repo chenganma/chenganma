@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-Detail-oriented PHP Programmer with 5 years’ coding experience for mid-size business. Team player with can-do attitude, fast learner, and problem-solving skill. Has developed several useful features for project need and mobile device available websites. Seeking to leverage my technical and professional expertise to grow in the new role
+Detail-oriented PHP Programmer with 6 years’ coding experience for mid-size business. Team player with can-do attitude, fast learner, and problem-solving skill. Has developed several useful features for project need and mobile device available websites. Seeking to leverage my technical and professional expertise to grow in the new role.
 
 <hr></hr>
 
-Skill : HTML, CSS, PHP, MySQL (LAMP), Vue.js, React, JavaScript, jQuery, Bootstrap, Heroku, Facebook Chatbot, SEO, WordPress, OpenCart, Photoshop, Illustrator, GitHub, Mac OS, Windows
+Skill : HTML, CSS, PHP, MySQL (LAMP), Vue.js, React, JavaScript, jQuery, Bootstrap, Heroku, Facebook Chatbot, SEO, WordPress Development, OpenCart, Photoshop, Illustrator, GitHub, Mac OS, Windows
 
 Certification : AWS Certified Cloud Practitioner (2022), Project Management (2021), Google Analytics (2017), Mobile Sites Certification (2017), Microsoft Certified Technology Specialist (2010), MSSQL (2010)
 
