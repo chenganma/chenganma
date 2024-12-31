@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Detail-oriented PHP Programmer with 6 years’ coding experience for mid-size business. Team player with can-do attitude, fast learner, and problem-solving skill. Has developed several useful features for project need and mobile device available websites. Seeking to leverage my technical and professional expertise to grow.
+Results-driven PHP Programmer with 5+ years of experience in custom PHP and WordPress development, specializing in creating scalable, mobile-friendly solutions. Thrives in collaborative team settings, offering a proven ability to streamline workflows and deliver high-quality features under tight deadlines. Known for adaptability, problem-solving, and a commitment to continuous learning, aiming to drive impactful contributions to innovative projects.
 
 <hr></hr>
 
@@ -10,7 +10,7 @@ Database & CMS: MySQL, WordPress, OpenCart
 
 Design: Photoshop, Illustrator, Canva
 
-Hosting & Tools: Heroku, GitHub, Cloudflare, GoDaddy
+Hosting & Tools: Heroku, GitHub, Cloudflare, GoDaddy, A2 Hosting
 
 Other: SEO, Facebook Chatbot, Mac OS, Windows
 
@@ -28,7 +28,7 @@ Certifications : AWS Certified Cloud Practitioner (2022), Project Management (20
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 <br><br>
-![Update](https://img.shields.io/badge/Update%20On-01%2F2024-yellowgreen)
+![Update](https://img.shields.io/badge/Update%20On-12%2F2024-yellowgreen)
 
 
 <!--
